@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="15f6d2e3-0b6b-4454-8514-bb9c24cf9f2b" name="Changes" comment="Add PostService file" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Project_Walking" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "seohyun96"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/seohyun96/Project_Walking.git",
+    "accountId": "028d2f1e-aff8-4832-a46a-625ff13d3506"
+  }
+}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2o3GWXLAQWUwOKmocT8JDY4O76Y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Build Project_walking.executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.ProjectWalkingApplication.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/USER/IdeaProjects/Project_walking",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="ProjectWalkingApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Project_Walking.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.walking.project_walking.ProjectWalkingApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.22855.74" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.22855.74" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15f6d2e3-0b6b-4454-8514-bb9c24cf9f2b" name="Changes" comment="" />
+      <created>1730090880790</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730090880790</updated>
+      <workItem from="1730090881865" duration="2025000" />
+      <workItem from="1730261396778" duration="2780000" />
+      <workItem from="1730264640663" duration="13917000" />
+      <workItem from="1730300155796" duration="1706000" />
+      <workItem from="1730301887192" duration="888000" />
+      <workItem from="1730303004960" duration="1412000" />
+      <workItem from="1730333115381" duration="22111000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add Comment DTO">
+      <option name="closed" value="true" />
+      <created>1730303413990</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730303413990</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add new CommentController file">
+      <option name="closed" value="true" />
+      <created>1730340636336</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730340636337</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add new CommentService file">
+      <option name="closed" value="true" />
+      <created>1730340705563</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730340705563</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add new CommentsRepository file">
+      <option name="closed" value="true" />
+      <created>1730340731283</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1730340731283</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add reply functionality">
+      <option name="closed" value="true" />
+      <created>1730353986015</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1730353986015</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add reply functionality">
+      <option name="closed" value="true" />
+      <created>1730354255964</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1730354255964</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Add reply functionality">
+      <option name="closed" value="true" />
+      <created>1730354261235</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1730354261235</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Add PostRepository file">
+      <option name="closed" value="true" />
+      <created>1730354362517</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1730354362517</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Add PostController file">
+      <option name="closed" value="true" />
+      <created>1730354379718</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1730354379718</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Add PostDto file">
+      <option name="closed" value="true" />
+      <created>1730354390126</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1730354390126</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Add PostService file">
+      <option name="closed" value="true" />
+      <created>1730354402630</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1730354402630</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add Comment DTO" />
+    <MESSAGE value="Add new CommentController file" />
+    <MESSAGE value="Add new CommentService file" />
+    <MESSAGE value="Add new CommentsRepository file" />
+    <MESSAGE value="Add reply functionality" />
+    <MESSAGE value="Add PostRepository file" />
+    <MESSAGE value="Add PostController file" />
+    <MESSAGE value="Add PostDto file" />
+    <MESSAGE value="Add PostService file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add PostService file" />
+  </component>
+</project>
