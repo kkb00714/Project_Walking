@@ -8,10 +8,12 @@ import java.time.LocalDateTime;
 @Builder
 
 public class CommentResponse {
-    private final Long commentId;
-    private final Long postId;
-    private final Long userId;
-    private final String content;
-    private final LocalDateTime createdAt;
-    private final Boolean isDeleted;
+    private Long commentId;
+    private Long parentCommentId;
+    private Long postId;
+    private Long userId;
+    private String content;
+    private LocalDateTime createdAt;
+    private Boolean isDeleted;
+
 }

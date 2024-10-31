@@ -1,6 +1,5 @@
 package com.walking.project_walking.domain.dto;
 
-import com.walking.project_walking.domain.Comments;
 import lombok.*;
 import javax.validation.constraints.NotBlank;
 
@@ -11,10 +10,11 @@ import javax.validation.constraints.NotBlank;
 @AllArgsConstructor
 @Builder
 
-public class AddCommentRequest {
+public class CommentRequest {
 
     private Long postId;
     private Long userId;
+    private Long parentCommentId;
 
     @NotBlank(message = "댓글을 작성해주세요.")
     private String content;
