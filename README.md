@@ -24,31 +24,16 @@ http://ec2-43-201-90-83.ap-northeast-2.compute.amazonaws.com:8080/
 
 
 ## 팀원 소개
+<br/>
 
-팀장 : 김경빈
+|                       [김경빈](https://github.com/kkb00714)                        |                       [김근우](https://github.com/kkwggwp)                        |                       [임수응](https://github.com/greenapple-18)                       |                       [안서현](https://github.com/seohyun96)                        |                        [전원용](https://github.com/sqrt3)                         |
+|:------------------------------------------------:|:------------------------------------------------:|:-----------------------------------------------:|:-----------------------------------------------:|:--------------------------------------------------:|
+| <img src="https://github.com/user-attachments/assets/a5814bf9-cd88-4347-9d1f-e88062f784cf" alt="김경빈" width="100"> | <img src="https://github.com/user-attachments/assets/057a6c1b-3201-4ece-982a-410178ddd86b" alt="김근우" width="100"> | <img src="https://github.com/user-attachments/assets/b68a8a69-0396-4018-b901-83e88c70d435" alt="임수응" width="100"> | <img src="https://github.com/user-attachments/assets/dc5421a6-5917-4814-bb5b-98dcfbfda5aa" alt="안서현" width="100"> | <img src="https://github.com/user-attachments/assets/8e57303d-8c79-41bb-99ff-3723434e1162" alt="전원용" width="100"> |
+|                       팀장(대장핑)                       |                        팀원(모르핑)                        |                       팀원(머리가핑)                        |                       팀원(눈물이핑)                        |                         팀원(미아핑)                         |
+|        - 마이페이지, 타 유저 페이지 API 및 UI 구현<br/>- 팔로우 API 및 UI 구현        |       - 회원가입 API 및 UI 구현<br/>- 로그인 및 비밀번호 찾기 페이지 API 및 UI 구현        |       - 게시판 페이지 API 및 UI 구현<br/>- 인기 게시글 로직 API 및 UI 구현       |       - 게시글 및 댓글 CRUD API 및 UI 구현        | - 관리자 페이지 API 및 UI 구현<br/>- 아이템 API 및 UI 구현 |
 
-- 마이페이지, 타 유저 페이지 API 및 UI 구현
-- 팔로우 API 및 UI 구현
 
-팀원 : 김근우
-
-- 회원가입 API 및 UI 구현
-- 로그인 및 비밀번호 찾기 페이지 API 및 UI 구현
-
-팀원 : 임수응
-
-- 게시판 페이지 API 및 UI 구현
-- 인기 게시글 로직 API 및 UI 구현
-
-팀원 : 안서현 
-
-- 게시글 및 댓글 CRUD API 및 UI 구현
-
-팀원 : 전원용
-
-- 관리자 페이지 API 및 UI 구현
-- 아이템 API 및 UI 구현
-
+<br/><br/>
 # 📚 Project Walking 소개
 
 
